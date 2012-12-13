@@ -4,7 +4,7 @@
   <artifactId>memcachedviewer</artifactId>
   <version>0.1.0</version>
   <name>memcached Viewer</name>
-  <description>A simple tool to monitor memcached databases.</description>
+  <description>A simple tool to view values in memcached databases.</description>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <resources>
